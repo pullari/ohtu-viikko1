@@ -1,3 +1,4 @@
 *.tmp
 /[Bb]uild/
 /*.tmp
+gradle.properties
