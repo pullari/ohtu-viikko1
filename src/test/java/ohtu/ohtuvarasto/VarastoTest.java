@@ -132,6 +132,6 @@ public class VarastoTest {
     @Test
     public void toimiikoToString() {
         
-        assertEquals("sald = " + varasto.getSaldo() + ", vielä tilaa " +varasto. paljonkoMahtuu(), varasto.toString());
+        assertEquals("saldo = " + varasto.getSaldo() + ", vielä tilaa " +varasto. paljonkoMahtuu(), varasto.toString());
     }
 }
